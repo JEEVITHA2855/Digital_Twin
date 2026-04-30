@@ -2,7 +2,7 @@
 
 Get the Digital Twin CO₂ Platform running in **3 minutes**!
 
----
+
 
 ## Step 1: Install Dependencies
 
